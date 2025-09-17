@@ -6490,5 +6490,22 @@
       "expected_md5": "49589ab65d1eaf78dbbadfc5ae56ef72",
       "cache_path": "qrels.txt"
     }
+  },
+  "isearch": {
+  "docs": {
+    "url": "",
+    "expected_md5": "718f3d2fb98cf16789c2a9268902e0da",
+    "cache_path": "iSearch-v1.0_documents.tgz"
+  },
+  "queries": {
+    "url": "",
+    "expected_md5": "",
+    "cache_path": "iSearch-v1.0_topics+assessments/topics/topics.trecweb"
+  },
+  "qrels": {
+    "url": "",
+    "expected_md5": "8c157025886bdc72f16d59ef80c33942",
+    "cache_path": "iSearch-v1.0_topics+assessments/assessments/graded-qrels.all-types.txt"
   }
-  }
+}
+}
